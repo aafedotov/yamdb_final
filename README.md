@@ -1,4 +1,5 @@
 ![status_badge](https://github.com/aafedotov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+Ссылки на боевой сервер:
 
 ## API YAMDB.
 ### Финальный проект 12-го спринта.
