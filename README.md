@@ -1,3 +1,5 @@
+![status_badge](https://github.com/aafedotov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 ## API YAMDB.
 ### Финальный проект 12-го спринта.
 ### Яндекс.Практикум. 5-я когорта pythonplus.
