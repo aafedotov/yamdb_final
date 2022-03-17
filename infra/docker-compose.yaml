@@ -10,7 +10,7 @@ services:
       - ./.env
 
   web:
-    image: fedotovaa/yamdb_final
+    image: fedotovaa/yamdb
     restart: always
     volumes:
       - static_value:/app/static/
