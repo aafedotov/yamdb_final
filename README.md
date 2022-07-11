@@ -1,15 +1,4 @@
 ![status_badge](https://github.com/aafedotov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
-### Ссылки на боевой сервер:
-http://178.154.241.242/redoc/  
-http://178.154.241.242/api/v1/  
-http://178.154.241.242/admin/  
-
-В папке data размещены тестовые данные в csv для импорта в БД.  
-(данные уже импортированы)
-
-Учетные данные superuser для ревьювера:  
-User: review  
-Password: 123
 
 ## API YAMDB.
 ### Финальный проект 12-го спринта.
